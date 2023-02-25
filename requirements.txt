@@ -9,7 +9,6 @@ pydantic
 
 zlib-state
 flask
-gzip-reader
 pytest
 requests
 
